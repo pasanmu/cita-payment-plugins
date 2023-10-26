@@ -1,0 +1,4 @@
+<?php
+# Stripe keys (user pasanmu@insharp..)
+define('STRIPE_PUBLISHABLE_KEY', 'pk_test_51NwmR5FOOayQgHavmeWPuHOI1Ri0E5z1mGITOTrlsfp5dcBAiQ7WXGdVieKiGOH53LNUlRR07R0X8xE7pUFL3ONG00XYlsPzx4');
+define('STRIPE_SECRET_KEY', 'sk_test_51NwmR5FOOayQgHavjsId2pSNdvn4lSSjFkc00ocL6swE85giNzLV14JHTkLdToLVAmDO645Q5R8ScG9aJIK2xhWJ000GEwrOuq');
