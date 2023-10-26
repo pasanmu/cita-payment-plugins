@@ -1,8 +1,12 @@
 <?php
-class StripeAccountCreation{
+namespace Cita\stripe;
 
+class StripeAccountCreation
+{
+    function sayHello()
+    {
+        echo "Hello, World!";
+    }
 }
-function sayHello() {
-    echo "Hello, World!";
-}
+
 ?>
